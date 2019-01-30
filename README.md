@@ -44,3 +44,5 @@ https://theta360.com/en/ricoh_plugins/#install
 * [theta-plugin-sdk](https://github.com/theta4j/theta-plugin-sdk) Copyright 2018 theta4j project
 * The cat voice data is created by [ポケットサウンド/効果音素材](https://pocket-se.info/archives/81/).
 * The app icons are created by [ICOOON MONO](http://icooon-mono.com/).
+
+![Analytics](https://ga-beacon.appspot.com/UA-73311422-5/meowshot)
